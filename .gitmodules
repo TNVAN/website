@@ -1,6 +1,6 @@
 [submodule "HappinessHack"]
 	path = HappinessHack
-	url = git@github.com:TNVAN/hackathon-2019.git
+	url = https://github.com/TNVAN/hackathon-2019.git
 [submodule "SmartCityHack"]
 	path = SmartCityHack
-	url = git@github.com:TNVAN/hackathon-2018.git
+	url = https://github.com/TNVAN/hackathon-2018.git
